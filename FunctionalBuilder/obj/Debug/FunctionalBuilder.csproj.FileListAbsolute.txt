@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\FunctionalBuilder\bin\Debug\FunctionalBuilder.exe.config
+C:\Users\Ranieri\Desktop\FunctionalBuilder\bin\Debug\FunctionalBuilder.exe
+C:\Users\Ranieri\Desktop\FunctionalBuilder\bin\Debug\FunctionalBuilder.pdb
+C:\Users\Ranieri\Desktop\FunctionalBuilder\obj\Debug\FunctionalBuilder.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\FunctionalBuilder\obj\Debug\FunctionalBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\FunctionalBuilder\obj\Debug\FunctionalBuilder.exe
+C:\Users\Ranieri\Desktop\FunctionalBuilder\obj\Debug\FunctionalBuilder.pdb

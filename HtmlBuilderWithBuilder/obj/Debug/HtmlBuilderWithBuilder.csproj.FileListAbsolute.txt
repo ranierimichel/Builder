@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\HtmlBuilderWithBuilder\bin\Debug\HtmlBuilderWithBuilder.exe.config
+C:\Users\Ranieri\Desktop\HtmlBuilderWithBuilder\bin\Debug\HtmlBuilderWithBuilder.exe
+C:\Users\Ranieri\Desktop\HtmlBuilderWithBuilder\bin\Debug\HtmlBuilderWithBuilder.pdb
+C:\Users\Ranieri\Desktop\HtmlBuilderWithBuilder\obj\Debug\HtmlBuilderWithBuilder.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\HtmlBuilderWithBuilder\obj\Debug\HtmlBuilderWithBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\HtmlBuilderWithBuilder\obj\Debug\HtmlBuilderWithBuilder.exe
+C:\Users\Ranieri\Desktop\HtmlBuilderWithBuilder\obj\Debug\HtmlBuilderWithBuilder.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\ExerciseBuilder\bin\Debug\ExerciseBuilder.exe.config
+C:\Users\Ranieri\Desktop\ExerciseBuilder\bin\Debug\ExerciseBuilder.exe
+C:\Users\Ranieri\Desktop\ExerciseBuilder\bin\Debug\ExerciseBuilder.pdb
+C:\Users\Ranieri\Desktop\ExerciseBuilder\obj\Debug\ExerciseBuilder.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\ExerciseBuilder\obj\Debug\ExerciseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\ExerciseBuilder\obj\Debug\ExerciseBuilder.exe
+C:\Users\Ranieri\Desktop\ExerciseBuilder\obj\Debug\ExerciseBuilder.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\FacetedBuilder\bin\Debug\FacetedBuilder.exe.config
+C:\Users\Ranieri\Desktop\FacetedBuilder\bin\Debug\FacetedBuilder.exe
+C:\Users\Ranieri\Desktop\FacetedBuilder\bin\Debug\FacetedBuilder.pdb
+C:\Users\Ranieri\Desktop\FacetedBuilder\obj\Debug\FacetedBuilder.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\FacetedBuilder\obj\Debug\FacetedBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\FacetedBuilder\obj\Debug\FacetedBuilder.exe
+C:\Users\Ranieri\Desktop\FacetedBuilder\obj\Debug\FacetedBuilder.pdb

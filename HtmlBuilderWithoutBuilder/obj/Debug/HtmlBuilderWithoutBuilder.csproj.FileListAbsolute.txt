@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\BuilderWithoutBuilder\bin\Debug\BuilderWithoutBuilder.exe.config
+C:\Users\Ranieri\Desktop\BuilderWithoutBuilder\bin\Debug\BuilderWithoutBuilder.exe
+C:\Users\Ranieri\Desktop\BuilderWithoutBuilder\bin\Debug\BuilderWithoutBuilder.pdb
+C:\Users\Ranieri\Desktop\BuilderWithoutBuilder\obj\Debug\HtmlBuilderWithoutBuilder.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\BuilderWithoutBuilder\obj\Debug\HtmlBuilderWithoutBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\BuilderWithoutBuilder\obj\Debug\BuilderWithoutBuilder.exe
+C:\Users\Ranieri\Desktop\BuilderWithoutBuilder\obj\Debug\BuilderWithoutBuilder.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\FluentBuilderInheritance\bin\Debug\FluentBuilderInheritance.exe.config
+C:\Users\Ranieri\Desktop\FluentBuilderInheritance\bin\Debug\FluentBuilderInheritance.exe
+C:\Users\Ranieri\Desktop\FluentBuilderInheritance\bin\Debug\FluentBuilderInheritance.pdb
+C:\Users\Ranieri\Desktop\FluentBuilderInheritance\obj\Debug\FluentBuilderInheritance.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\FluentBuilderInheritance\obj\Debug\FluentBuilderInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\FluentBuilderInheritance\obj\Debug\FluentBuilderInheritance.exe
+C:\Users\Ranieri\Desktop\FluentBuilderInheritance\obj\Debug\FluentBuilderInheritance.pdb
